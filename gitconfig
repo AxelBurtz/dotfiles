@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = axelburtz@gmail.com
+	name = axel burtz
